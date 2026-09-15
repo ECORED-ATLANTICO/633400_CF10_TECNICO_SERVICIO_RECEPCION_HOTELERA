@@ -1,0 +1,27 @@
+<svg id="Grupo_1194400" data-name="Grupo 1194400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175.073" height="176.479" viewBox="0 0 175.073 176.479">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_461416" data-name="Rectángulo 461416" width="175.073" height="176.478" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1194399" data-name="Grupo 1194399" clip-path="url(#clip-path)">
+    <path id="Trazado_1097347" data-name="Trazado 1097347" d="M132.331,119.132H49.184a10.856,10.856,0,0,1-10.856-10.854V29.365H143.185v78.913a10.855,10.855,0,0,1-10.854,10.854" transform="translate(31.888 24.431)" fill="#ffc571"/>
+    <rect id="Rectángulo_461413" data-name="Rectángulo 461413" width="104.857" height="20.152" transform="translate(70.216 51.964)" fill="#fff1db"/>
+    <rect id="Rectángulo_461414" data-name="Rectángulo 461414" width="104.857" height="5.496" transform="translate(70.216 0.669)" fill="#ffc571"/>
+    <rect id="Rectángulo_461415" data-name="Rectángulo 461415" width="68.025" height="27.48" transform="translate(88.97 15.325)" fill="#fff"/>
+    <text id="_1.00_m" data-name="1.00 m" transform="translate(104.741 171.567)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.00 m</tspan></text>
+    <text id="_1.90_m" data-name="1.90 m" transform="translate(0.003 84.934)" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1.90 m</tspan></text>
+    <line id="Línea_3536" data-name="Línea 3536" x2="14.656" transform="translate(50.499 0.669)"/>
+    <line id="Línea_3537" data-name="Línea 3537" x2="14.656" transform="translate(50.499 0.669)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.73"/>
+    <line id="Línea_3538" data-name="Línea 3538" x2="14.656" transform="translate(50.499 143.564)"/>
+    <line id="Línea_3539" data-name="Línea 3539" x2="14.656" transform="translate(50.499 143.564)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.73"/>
+    <line id="Línea_3540" data-name="Línea 3540" y2="141.422" transform="translate(57.827 0.669)"/>
+    <line id="Línea_3541" data-name="Línea 3541" y2="141.422" transform="translate(57.827 0.669)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.73"/>
+    <line id="Línea_3542" data-name="Línea 3542" y1="14.656" transform="translate(68.819 149.059)"/>
+    <line id="Línea_3543" data-name="Línea 3543" y1="14.656" transform="translate(68.819 149.059)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.621"/>
+    <line id="Línea_3544" data-name="Línea 3544" y1="14.656" transform="translate(172.278 149.059)"/>
+    <line id="Línea_3545" data-name="Línea 3545" y1="14.656" transform="translate(172.278 149.059)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.621"/>
+    <line id="Línea_3546" data-name="Línea 3546" x2="102.391" transform="translate(68.819 156.387)"/>
+    <line id="Línea_3547" data-name="Línea 3547" x2="102.391" transform="translate(68.819 156.387)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.621"/>
+  </g>
+</svg>
