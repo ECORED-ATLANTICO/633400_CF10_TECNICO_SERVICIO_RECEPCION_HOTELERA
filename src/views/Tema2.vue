@@ -211,7 +211,7 @@
 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MbPhrvkKgH0" target="_blank")
-                  span Consultar video
+                  span Ir al recurso
                   i.fab.fa-youtube
 
     .container

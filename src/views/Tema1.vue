@@ -432,7 +432,7 @@
                       p.mb-0.text-bold Lección 1:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=oBytkylSufw&t=169s" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -440,7 +440,7 @@
                       p.mb-0.text-bold Lección 2:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=eA46BhGhp9Q" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-0
@@ -448,7 +448,7 @@
                       p.mb-0.text-bold Lección 3:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YWLCZU5Jsbc" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                 .col-md-6(style="justify-items: center;")
@@ -457,7 +457,7 @@
                       p.mb-0.text-bold Lección 4:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=pL9GTpg9UDo&t=4s" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -465,7 +465,7 @@
                       p.mb-0.text-bold Lección 5:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7lmjKN6Sh4s" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -473,7 +473,7 @@
                       p.mb-0.text-bold Lección 6:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TEHj5a1n_Z8" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
               
   
@@ -584,7 +584,7 @@
                       p.mb-0.text-bold Lección 1:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WALXkZx78GQ&t=36s" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -592,7 +592,7 @@
                       p.mb-0.text-bold Lección 2:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=a-GEGiqDnKY" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -600,7 +600,7 @@
                       p.mb-0.text-bold Lección 3:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=5xjSUPczYEY" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -608,7 +608,7 @@
                       p.mb-0.text-bold Lección 4:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=enOQ_V5H5sU" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                 .col-md-6(style="justify-items: center;")
@@ -617,7 +617,7 @@
                       p.mb-0.text-bold Lección 5:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=fJnnhyDM6f4" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -625,7 +625,7 @@
                       p.mb-0.text-bold Lección 6:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HCyYePYxy0I" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
 
                   .row.align-items-center.mb-3
@@ -633,7 +633,7 @@
                       p.mb-0.text-bold Lección 7:
                     .col
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=2fqHjsDiqyk" target="_blank")
-                        span Consultar video
+                        span Ir al recurso
                         i.fab.fa-youtube
               
               
@@ -693,7 +693,7 @@
                 p.mb-0 Para conocer más sobre números cardinales consulte el archivo:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_03_The_cardinal_numbers.pdf')" target="_blank")
-                  span Consultar pdf
+                  span Ir al recurso
                   i.fas.fa-file-download
 
     .row.justify-content-center.align-items-center.mb-5
@@ -725,7 +725,7 @@
                 p.mb-0 Se invita a revisar el siguiente video para complementar la información.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9MzsJd2j7Vc" target="_blank")
-                  span Consultar video
+                  span Ir al recurso
                   i.fab.fa-youtube
 
 
