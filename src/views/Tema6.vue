@@ -476,8 +476,7 @@
                 p.mb-0 Descarga este recurso <br> Aquí encontrarás algunas palabras que puedes utilizar para estas labores en forma imperativa.
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_02_Verbos_en_ingles.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
 
 
     .titulo-con-imagen_2.mb-4(data-aos="fade-right")

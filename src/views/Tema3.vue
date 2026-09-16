@@ -178,7 +178,6 @@
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_01_Lista_de_paises.pdf')" target="_blank")
                   span Ir al recurso
-                  i.fas.fa-file
 
 
 
