@@ -200,7 +200,6 @@
           span <em>Accommodation</em> / alojamiento
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th <em>Bed types</em>

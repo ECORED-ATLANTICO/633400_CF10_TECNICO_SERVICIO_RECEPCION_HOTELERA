@@ -52,7 +52,6 @@
           span <em>Descriptive adjectives (places)</em> / Adjetivos descriptivos (lugares)
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th <em>Adjective</em>

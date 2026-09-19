@@ -40,7 +40,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          '<em>Guest Information and reservations</em> / Información del huésped y reservas',
+          '<em>Guest information and reservations</em> / Información del huésped y reservas',
         desarrolloContenidos: true,
       },
       {
@@ -98,7 +98,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/621602_CF10_DU.zip',
+        download: 'downloads/633400_CF10_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -116,27 +116,27 @@ export default {
     {
       termino: '<em>BAR</em> / Mejor Tarifa Disponible',
       significado:
-        '<em>this is an acronym for Best Available Rate, a rate created by hoteliers to confront the competency against the OTAs.</em> / es el acrónimo de Best Available Rate (Mejor Tarifa Disponible). Corresponde a una tarifa creada por los establecimientos hoteleros para competir con las tarifas ofrecidas por las OTA (Agencias de Viajes en Línea).',
+        '<em>this is an acronym for Best Available Rate, a rate created by hoteliers to confront the competency against the OTAs.</em>  Es el acrónimo de Best Available Rate (Mejor Tarifa Disponible). Corresponde a una tarifa creada por los establecimientos hoteleros para competir con las tarifas ofrecidas por las OTA (Agencias de Viajes en Línea).',
     },
     {
       termino: '<em>Equinox</em> / Equinoccio',
       significado:
-        '<em>the time or date (twice each year) at which the sun crosses the celestial equator, when day and night are of approximately equal length (about 22 September and 20 March).</em> / momento o fecha del año (dos veces al año) en el que el Sol cruza el ecuador celeste, haciendo que el día y la noche tengan aproximadamente la misma duración. Ocurre alrededor del 20 de marzo y del 22 de septiembre.',
+        '<em>the time or date (twice each year) at which the sun crosses the celestial equator, when day and night are of approximately equal length (about 22 September and 20 March).</em> Momento o fecha del año (dos veces al año) en el que el Sol cruza el ecuador celeste, haciendo que el día y la noche tengan aproximadamente la misma duración. Ocurre alrededor del 20 de marzo y del 22 de septiembre.',
     },
     {
       termino: '<em>Job</em> / Trabajo',
       significado:
-        '<em>it is a regular remunerative position.</em> / es una ocupación o empleo remunerado que una persona desempeña de manera regular.',
+        '<em>it is a regular remunerative position.</em> Es una ocupación o empleo remunerado que una persona desempeña de manera regular.',
     },
     {
       termino: '<em>Position</em> / Cargo',
       significado:
-        '<em>in the context of human resources, it is an employment for which one has been hired. Example: I have been contracted as a receptionist.</em> / en el contexto de los recursos humanos, es el puesto de trabajo para el cual una persona ha sido contratada. Ejemplo: He sido contratado como recepcionista.',
+        '<em>in the context of human resources, it is an employment for which one has been hired. Example: I have been contracted as a receptionist.</em> En el contexto de los recursos humanos, es el puesto de trabajo para el cual una persona ha sido contratada. Ejemplo: He sido contratado como recepcionista.',
     },
     {
       termino: '<em>Solstice</em> / Solsiticio',
       significado:
-        '<em>the time or date (twice each year) at which the sun reaches its maximum or minimum declination, marked by the longest and shortest days (about 21 June and 22 December).</em> / momento o fecha del año (dos veces al año) en el que el Sol alcanza su máxima o mínima declinación, dando lugar al día más largo y al día más corto del año. Ocurre alrededor del 21 de junio y del 22 de diciembre.',
+        '<em>the time or date (twice each year) at which the sun reaches its maximum or minimum declination, marked by the longest and shortest days (about 21 June and 22 December).</em> Momento o fecha del año (dos veces al año) en el que el Sol alcanza su máxima o mínima declinación, dando lugar al día más largo y al día más corto del año. Ocurre alrededor del 21 de junio y del 22 de diciembre.',
     },
   ],
   referencias: [
@@ -183,7 +183,7 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

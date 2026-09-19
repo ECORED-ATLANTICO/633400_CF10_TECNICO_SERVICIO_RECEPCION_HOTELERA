@@ -251,7 +251,6 @@
           span <em>Affirmative imperative</em> / Imperativo afirmativo
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
             thead
               tr
                 th <em>Base (verbal form)</em>
@@ -285,7 +284,6 @@
           span <em>Negative imperative</em> / Imperativo negativo
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
             thead
               tr
                 th <em>Do + not</em>
@@ -324,7 +322,6 @@
           span <em>Exhortative imperative</em> / Exhortación imperativa
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
             thead
               tr
                 th <em>Let + us</em>

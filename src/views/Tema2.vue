@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 <em>Guest Information and Reservations</em> / Información del huésped y reservas
+      h1 <em>Guest information and reservations</em> / Información del huésped y reservas
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3.mb-4.mb-lg-0.col-md-8
@@ -14,7 +14,7 @@
 
       .col-lg-9
         p.mb-2(data-aos="fade-right") <em>Accurate communication is essential during the reservation process and guest registration. Knowing how to spell names, use appropriate titles, and manage reservation-related information contributes to a professional service experience and effective interaction with guests.</em>
-        p.mb-4(data-aos="fade-right") <em>In this section, key vocabulary and expressions related to guest information and reservations will be addressed.</em>
+        p.mb-4(data-aos="fade-right") <em>In this section, key vocabulary and expressions related to guest information and reservations will be explored.</em>
         .bg-fondo-3.px-lg-4.py-lg-4.px-4.py-3.br-15.mb-0
           p.mb-2 La comunicación precisa es fundamental durante el proceso de reservación y el registro de huéspedes. Conocer cómo deletrear nombres, utilizar los títulos adecuados y gestionar información relacionada con las reservas contribuye a brindar un servicio profesional y una interacción efectiva con los huéspedes.
           p.mb-0 En esta sección se abordará vocabulario y expresiones clave relacionadas con la información del huésped y las reservas.

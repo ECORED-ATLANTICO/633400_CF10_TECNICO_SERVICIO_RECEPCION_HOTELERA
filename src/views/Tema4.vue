@@ -222,7 +222,6 @@
           span <em>Mathematical expressions</em> / Expresiones matemáticas
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2021).</span>
             thead
               tr
                 th <em>Symbol</em>
@@ -315,7 +314,6 @@
           span <em>Quantitative adjectives</em> / Adjetivos cuantitativos
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th <em>Adjective</em>
