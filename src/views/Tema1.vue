@@ -682,9 +682,9 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30_1.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Para conocer más sobre números cardinales consulte el archivo Los_Numeros_Cardinales.pdf:
+                p.mb-0 Para conocer más sobre números cardinales consulte el archivo:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_03_The_cardinal_numbers.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_01_Los_Numeros_Cardinales.pdf')" target="_blank")
                   span Ir al recurso
 
     .row.justify-content-center.align-items-center.mb-5

@@ -472,7 +472,7 @@
                 p.mb-2 <em>Download this resource<br> Here you will find some words that can be used for these tasks in the imperative form.</em> 
                 p.mb-0 Descarga este recurso <br> Aquí encontrarás algunas palabras que puedes utilizar para estas labores en forma imperativa.
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_02_Verbos_en_ingles.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_03_Verbos_En_Ingles.pdf')" target="_blank")
                   span Ir al recurso
 
 

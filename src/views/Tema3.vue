@@ -176,7 +176,7 @@
               .col-12.col-lg-7.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 El siguiente documento presenta una lista de países y nacionalidades de uso frecuente en contextos hoteleros y turísticos. Este recurso favorece el desarrollo del vocabulario y las habilidades de comunicación necesarias para interactuar con huéspedes provenientes de diferentes partes del mundo.
               .col-lg-2.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_01_Lista_de_paises.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Anexo_02_Lista_De_Paises.pdf')" target="_blank")
                   span Ir al recurso
 
 
