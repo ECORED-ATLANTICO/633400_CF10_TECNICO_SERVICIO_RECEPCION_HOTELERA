@@ -239,7 +239,7 @@
               .col-8  
                 img(src='@/assets/curso/tema1/img14.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>All inclusive</em>
-            p.mb-2.text-center <em>Includes room rate plus american breakfast + lunch + dinner.</em>
+            p.mb-2.text-center <em>Includes the room rate, breakfast, lunch, dinner, and scheduled activities. </em>
             h5.text-center Plan todo incluido
             p.mb-0.text-center Incluye tarifa de habitación, desayuno, almuerzo y comida, y actividades programadas.
 
@@ -249,8 +249,8 @@
                 img(src='@/assets/curso/tema1/img15.svg' alt="", style="width: 90px;").mx-auto
             h5.text-center.mb-2 <em>Bed & breakfast</em>
             p.mb-2.text-center <em>Includes room rate plus full breakfast.</em>
-            h5.text-center <em>Bed & Breakfast</em>
-            p.mb-0.text-center Incluye cama y desayuno. Ofrecen habitación con desayuno completo.
+            h5.text-center <em>Bed & breakfast</em>
+            p.mb-0.text-center Incluye la tarifa de la habitación y el desayuno completo.
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")

@@ -50,7 +50,7 @@
           h5 
             b Tabla 4.
           span <em>Descriptive adjectives (places)</em> / Adjetivos descriptivos (lugares)
-        .tabla-a.color-acento-contenido 
+        .tabla-a.color-acento-contenido           
           table
             thead
               tr
@@ -58,44 +58,75 @@
                 th Adjetivo
             tbody
               tr
-                td <em>Something</em>
-                td Algo
+                td <em>Amazing</em>
+                td Asombroso
               tr
-                td <em>Some</em>
-                td Algo de
+                td <em>Ancient</em>
+                td Antiguo
               tr
-                td <em>Pretty much</em>
-                td Bastante
+                td <em>Beautiful</em>
+                td Hermoso
               tr
-                td <em>The rest of</em>
-                td El resto de
+                td <em>Big</em>
+                td Grande
               tr
-                td <em>Hall of the</em>
-                td La mitad de el /la
+                td <em>Boring</em>
+                td Aburrido
               tr
-                td <em>More</em>
-                td Más
+                td <em>Breathtaking</em>
+                td Impresionante
               tr
-                td <em>Less</em>
-                td Menos
+                td <em>Bustling</em>
+                td Bullicioso
               tr
-                td <em>A lot of</em>
-                td Mucho (a)
+                td <em>Busy</em>
+                td Ocupado
               tr
-                td <em>None of</em>
-                td Nada de
+                td <em>Calm</em>
+                td Calmado
               tr
-                td <em>Not much</em>
-                td No mucho
+                td <em>Cheap</em>
+                td Barato
               tr
-                td <em>Litle</em>
-                td Poco
+                td <em>Crowded</em>
+                td Concurrido
               tr
-                td <em>A litle bit</em>
-                td Un poco
+                td <em>Exciting</em>
+                td Emocionante
               tr
-                td <em>Enough</em>
-                td Suficiente
+                td <em>Expensive</em>
+                td Caro
+              tr
+                td <em>Huge</em>
+                td Enorme
+              tr
+                td <em>Interesting</em>
+                td Interesante
+              tr
+                td <em>Lively</em>
+                td Vivo
+              tr
+                td <em>Lovely</em>
+                td Bonito
+              tr
+                td <em>Modern</em>
+                td Moderno
+              tr
+                td <em>Polluted</em>
+                td Contaminado
+              tr
+                td <em>Quiet</em>
+                td Tranquilo
+              tr
+                td <em>Small</em>
+                td Pequeño
+              tr
+                td <em>Unpleasant</em>
+                td Desagradable
+              tr
+                td <em>Wonderful</em>
+                td Maravilloso
+
 </template>
 
 <script>

@@ -24,7 +24,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto <em>Types of clients</em> / Tipos de Clientes
+          h3.titulo-con-imagen__texto <em>Types of clients</em> / Tipos de clientes
       
       
     .row.mb-5.justify-content-center.align-items-center

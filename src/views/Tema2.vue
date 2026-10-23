@@ -281,7 +281,7 @@
               span Carácter de la reserva (flexible, no reembolsable).
             li.mb-1
               i.lista-ul__vineta
-              span Sí se requiere pago anticipado y la fecha máxima para realizarlo.
+              span Si se requiere pago anticipado y la fecha máxima para realizarlo.
             li.mb-1
               i.lista-ul__vineta
               span Política de cancelación.

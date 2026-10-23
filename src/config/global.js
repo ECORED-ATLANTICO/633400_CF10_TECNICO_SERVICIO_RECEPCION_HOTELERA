@@ -134,7 +134,7 @@ export default {
         '<em>in the context of human resources, it is an employment for which one has been hired. Example: I have been contracted as a receptionist.</em> En el contexto de los recursos humanos, es el puesto de trabajo para el cual una persona ha sido contratada. Ejemplo: He sido contratado como recepcionista.',
     },
     {
-      termino: '<em>Solstice</em> / Solsiticio',
+      termino: '<em>Solstice</em> / Solsticio',
       significado:
         '<em>the time or date (twice each year) at which the sun reaches its maximum or minimum declination, marked by the longest and shortest days (about 21 June and 22 December).</em> Momento o fecha del año (dos veces al año) en el que el Sol alcanza su máxima o mínima declinación, dando lugar al día más largo y al día más corto del año. Ocurre alrededor del 21 de junio y del 22 de diciembre.',
     },
@@ -151,7 +151,7 @@ export default {
     },
     {
       referencia:
-        'Sila Inglés. (2021). Lista de países en inglés-español (con pronunciación y PDF). Aprende Inglés Sila.',
+        'Sila Inglés. (2014). Lista de países en inglés-español (con pronunciación y PDF). Aprende Inglés Sila.',
       link:
         'https://www.aprendeinglessila.com/2014/01/lista-de-paises-en-ingles-espanol-con-pronunciacion-y-pdf-para-imprimir/',
     },
@@ -217,17 +217,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Luis Gabriel Urueta Álvarez ',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -236,7 +231,7 @@ export default {
   ],
   creditosAdicionales: {
     imagenes:
-      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+      'Fotografías y vectores tomados de <a href="https://www.magnific.com/es" target="_blank">www.magnific.com/es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },

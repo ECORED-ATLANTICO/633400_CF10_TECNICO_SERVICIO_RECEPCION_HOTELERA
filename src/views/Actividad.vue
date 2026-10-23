@@ -71,7 +71,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto! BAR Rate corresponde a la mejor tarifa disponible para una fecha determinada.',
+            'BAR Rate corresponde a la mejor tarifa disponible para una fecha determinada.',
           mensaje_incorrecto:
             'Repase el significado de las tarifas utilizadas en establecimientos hoteleros.',
         },
@@ -371,7 +371,7 @@ export default {
         },
         {
           id: 20,
-          texto: '¿Cuál es el propósito del CF?',
+          texto: '¿Cuál es el propósito del componente formativo?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
